@@ -1,3 +1,10 @@
+
+
+https://github.com/user-attachments/assets/106ed766-f885-489b-b242-0512e843400b
+
+
+
+
 # Doctor Appointment System
 
 A full-stack app with three roles (**User, Doctor, Admin**).
